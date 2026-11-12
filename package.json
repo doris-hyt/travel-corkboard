@@ -1,0 +1,9 @@
+{
+  "name": "ai-travel-quest",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "spots": "node scripts/build-spots.mjs"
+  }
+}

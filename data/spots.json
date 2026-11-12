@@ -1,0 +1,303 @@
+[
+  {
+    "name": "北一硝子三號館",
+    "query": "北一硝子三号館, 小樽市",
+    "region": "jp-hokkaido",
+    "tags": [
+      "culture",
+      "shopping"
+    ],
+    "appearances": [
+      {
+        "plan": "hokkaido-otaru-canal",
+        "role": "nearby",
+        "reason": "運河附近的玻璃工藝老店，下雪天逛室內的店舖很適合，也能順便暖暖身子。"
+      }
+    ]
+  },
+  {
+    "name": "堺町通",
+    "query": "堺町通り, 小樽市",
+    "region": "jp-hokkaido",
+    "tags": [
+      "food",
+      "shopping"
+    ],
+    "appearances": [
+      {
+        "plan": "hokkaido-otaru-canal",
+        "role": "nearby",
+        "reason": "運河旁的老街，玻璃工藝、甜點和伴手禮店很多，適合逛完運河後邊走邊吃。"
+      }
+    ]
+  },
+  {
+    "name": "天狗山",
+    "query": "天狗山, 小樽市",
+    "region": "jp-hokkaido",
+    "tags": [
+      "nature",
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "hokkaido-otaru-canal",
+        "role": "nearby",
+        "reason": "可以從高處俯瞰雪景與小樽的街景，但離運河有段距離，適合另外安排。"
+      }
+    ]
+  },
+  {
+    "name": "小樽三角市場",
+    "query": "三角市場, 小樽市",
+    "region": "jp-hokkaido",
+    "tags": [
+      "food"
+    ],
+    "appearances": [
+      {
+        "plan": "hokkaido-otaru-canal",
+        "role": "nearby",
+        "reason": "以海產聞名的市場，想把北海道海鮮排進行程，可以來這裡找吃的。"
+      }
+    ]
+  },
+  {
+    "name": "小樽運河",
+    "query": "小樽運河, 小樽市",
+    "region": "jp-hokkaido",
+    "tags": [],
+    "appearances": [
+      {
+        "plan": "hokkaido-otaru-canal",
+        "role": "center"
+      }
+    ]
+  },
+  {
+    "name": "江之島",
+    "query": "江の島, 藤沢市",
+    "region": "jp-kamakura",
+    "tags": [],
+    "appearances": [
+      {
+        "plan": "kamakura-enoshima",
+        "role": "center"
+      }
+    ]
+  },
+  {
+    "name": "江島神社",
+    "query": "江島神社, 藤沢市",
+    "region": "jp-kamakura",
+    "tags": [
+      "culture",
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "kamakura-enoshima",
+        "role": "nearby",
+        "reason": "照片裡老街盡頭的石階往上走就會到，順著劇中場景的動線一路逛上去最自然，也是島上最主要的參拜點。"
+      }
+    ]
+  },
+  {
+    "name": "稚兒之淵",
+    "query": "稚児ヶ淵, 藤沢市",
+    "region": "jp-kamakura",
+    "tags": [
+      "nature",
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "kamakura-enoshima",
+        "role": "nearby",
+        "reason": "在島的最深處，是一片面海的岩岸，和照片一樣能拍到開闊的海景，延續劇中海邊的氛圍。"
+      }
+    ]
+  },
+  {
+    "name": "鎌倉高校前站",
+    "query": "鎌倉高校前駅, 鎌倉市",
+    "region": "jp-kamakura",
+    "tags": [
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "kamakura-enoshima",
+        "role": "nearby",
+        "reason": "江之電沿線正對著海的小車站，想多收集幾張鎌倉海邊的照片，很適合回程時順路下車走走。"
+      }
+    ]
+  },
+  {
+    "name": "鶴岡八幡宮",
+    "query": "鶴岡八幡宮, 鎌倉市",
+    "region": "jp-kamakura",
+    "tags": [
+      "culture",
+      "shopping"
+    ],
+    "appearances": [
+      {
+        "plan": "kamakura-enoshima",
+        "role": "nearby",
+        "reason": "鎌倉市區最具代表性的神社，前面還有熱鬧的參道，但離江之島有段距離，適合另外排一天鎌倉市區。"
+      }
+    ]
+  },
+  {
+    "name": "城山日出峰",
+    "query": "성산일출봉, 서귀포시",
+    "region": "kr-jeju",
+    "tags": [
+      "nature",
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "jeju-seopjikoji",
+        "role": "nearby",
+        "reason": "濟州島最有名的火山地形，爬上去能看到壯闊的海景，是大自然行程的重點。"
+      }
+    ]
+  },
+  {
+    "name": "廣治其海灘",
+    "query": "광치기해변, 서귀포시",
+    "region": "kr-jeju",
+    "tags": [
+      "nature",
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "jeju-seopjikoji",
+        "role": "nearby",
+        "reason": "海邊的岩石與海水很有味道，離日出峰很近，適合順路慢慢走、拍照。"
+      }
+    ]
+  },
+  {
+    "name": "東門市場",
+    "query": "동문시장, 제주시",
+    "region": "kr-jeju",
+    "tags": [
+      "food",
+      "shopping"
+    ],
+    "appearances": [
+      {
+        "plan": "jeju-seopjikoji",
+        "role": "nearby",
+        "reason": "濟州市區的傳統市場，海鮮和小吃選擇多，想專心吃美食可以另外排一天，離涉地可支比較遠。"
+      }
+    ]
+  },
+  {
+    "name": "涉地可支",
+    "query": "섭지코지, 서귀포시",
+    "region": "kr-jeju",
+    "tags": [],
+    "appearances": [
+      {
+        "plan": "jeju-seopjikoji",
+        "role": "center"
+      }
+    ]
+  },
+  {
+    "name": "遺民美術館",
+    "query": "유민미술관, 서귀포시",
+    "region": "kr-jeju",
+    "tags": [
+      "culture",
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "jeju-seopjikoji",
+        "role": "nearby",
+        "reason": "就在涉地可支一帶的美術館，建築和海景都很特別，走累了可以進去休息。"
+      }
+    ]
+  },
+  {
+    "name": "N首爾塔",
+    "query": "N서울타워, 서울",
+    "region": "kr-seoul",
+    "tags": [
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "seoul-gyeongbokgung",
+        "role": "nearby",
+        "reason": "首爾的地標，登高可以看整座城市，但離景福宮有段距離，適合另外排一個行程。"
+      }
+    ]
+  },
+  {
+    "name": "仁寺洞",
+    "query": "인사동, 서울",
+    "region": "kr-seoul",
+    "tags": [
+      "food",
+      "shopping"
+    ],
+    "appearances": [
+      {
+        "plan": "seoul-gyeongbokgung",
+        "role": "nearby",
+        "reason": "傳統工藝品店和茶屋集中的老街，逛完宮殿後順路來這裡吃小吃、買伴手禮。"
+      }
+    ]
+  },
+  {
+    "name": "北村韓屋村",
+    "query": "북촌한옥마을, 서울",
+    "region": "kr-seoul",
+    "tags": [
+      "culture",
+      "photo"
+    ],
+    "appearances": [
+      {
+        "plan": "seoul-gyeongbokgung",
+        "role": "nearby",
+        "reason": "和景福宮同一帶，成片的傳統韓屋巷弄，穿著韓服在小巷裡拍照特別有味道。"
+      }
+    ]
+  },
+  {
+    "name": "昌德宮",
+    "query": "창덕궁, 서울",
+    "region": "kr-seoul",
+    "tags": [
+      "culture",
+      "nature"
+    ],
+    "appearances": [
+      {
+        "plan": "seoul-gyeongbokgung",
+        "role": "nearby",
+        "reason": "另一座朝鮮王朝的宮殿，後苑很有自然的氣息，想多拍幾組韓服照可以排進來。"
+      }
+    ]
+  },
+  {
+    "name": "景福宮",
+    "query": "경복궁, 서울",
+    "region": "kr-seoul",
+    "tags": [],
+    "appearances": [
+      {
+        "plan": "seoul-gyeongbokgung",
+        "role": "center"
+      }
+    ]
+  }
+]

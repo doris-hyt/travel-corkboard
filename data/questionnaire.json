@@ -1,0 +1,13 @@
+{
+  "interests": [
+    { "id": "food", "label": "美食" },
+    { "id": "culture", "label": "人文" },
+    { "id": "nature", "label": "自然" },
+    { "id": "shopping", "label": "購物" },
+    { "id": "photo", "label": "拍照" }
+  ],
+  "transport": [
+    { "id": "walk", "label": "步行為主", "hint": "直線 1.5 公里內" },
+    { "id": "transit", "label": "大眾運輸", "hint": "直線 3 公里內" }
+  ]
+}

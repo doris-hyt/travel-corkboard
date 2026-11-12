@@ -1,0 +1,144 @@
+{
+  "regions": {
+    "jp-kyoto": {
+      "label": "日本・京都",
+      "currency": "JPY",
+      "twd_rate": 0.21,
+      "rate_checked": "2026-11-07",
+      "transit": {
+        "low": {
+          "fare": 230,
+          "rides_per_day": 2
+        },
+        "mid": {
+          "fare": 230,
+          "rides_per_day": 4
+        },
+        "high": {
+          "fare": 300,
+          "rides_per_day": 6
+        }
+      },
+      "meal_per_day": {
+        "low": 2500,
+        "mid": 4500,
+        "high": 8000
+      },
+      "sourced": false,
+      "source": "待查證（暫定估算值）",
+      "checked": "2026-11-07"
+    },
+    "jp-kamakura": {
+      "label": "日本・鎌倉（含江之島）",
+      "currency": "JPY",
+      "twd_rate": 0.21,
+      "rate_checked": "2026-11-07",
+      "transit": {
+        "low": {
+          "fare": 200,
+          "rides_per_day": 2
+        },
+        "mid": {
+          "fare": 260,
+          "rides_per_day": 4
+        },
+        "high": {
+          "fare": 310,
+          "rides_per_day": 6
+        }
+      },
+      "meal_per_day": {
+        "low": 2500,
+        "mid": 4500,
+        "high": 8000
+      },
+      "sourced": false,
+      "source": "待查證（暫定估算值）",
+      "checked": "2026-11-09"
+    },
+    "kr-seoul": {
+      "label": "韓國・首爾",
+      "currency": "KRW",
+      "twd_rate": 0.023,
+      "rate_checked": "2026-11-11",
+      "transit": {
+        "low": {
+          "fare": 1400,
+          "rides_per_day": 2
+        },
+        "mid": {
+          "fare": 1400,
+          "rides_per_day": 4
+        },
+        "high": {
+          "fare": 1500,
+          "rides_per_day": 6
+        }
+      },
+      "meal_per_day": {
+        "low": 20000,
+        "mid": 35000,
+        "high": 60000
+      },
+      "sourced": false,
+      "source": "待查證（暫定估算值）",
+      "checked": "2026-11-11"
+    },
+    "kr-jeju": {
+      "label": "韓國・濟州島",
+      "currency": "KRW",
+      "twd_rate": 0.023,
+      "rate_checked": "2026-11-11",
+      "transit": {
+        "low": {
+          "fare": 1500,
+          "rides_per_day": 2
+        },
+        "mid": {
+          "fare": 1500,
+          "rides_per_day": 4
+        },
+        "high": {
+          "fare": 2000,
+          "rides_per_day": 6
+        }
+      },
+      "meal_per_day": {
+        "low": 20000,
+        "mid": 35000,
+        "high": 60000
+      },
+      "sourced": false,
+      "source": "待查證（暫定估算值）",
+      "checked": "2026-11-11"
+    },
+    "jp-hokkaido": {
+      "label": "日本・北海道（小樽）",
+      "currency": "JPY",
+      "twd_rate": 0.21,
+      "rate_checked": "2026-11-11",
+      "transit": {
+        "low": {
+          "fare": 210,
+          "rides_per_day": 2
+        },
+        "mid": {
+          "fare": 240,
+          "rides_per_day": 4
+        },
+        "high": {
+          "fare": 300,
+          "rides_per_day": 6
+        }
+      },
+      "meal_per_day": {
+        "low": 2500,
+        "mid": 4500,
+        "high": 8000
+      },
+      "sourced": false,
+      "source": "待查證（暫定估算值）",
+      "checked": "2026-11-11"
+    }
+  }
+}
